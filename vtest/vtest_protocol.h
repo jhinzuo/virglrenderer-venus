@@ -25,7 +25,7 @@
 #ifndef VTEST_PROTOCOL
 #define VTEST_PROTOCOL
 
-#define VTEST_DEFAULT_SOCKET_NAME "/data/data/com.micewine.emu/usr/tmp/.virgl_test"
+#define VTEST_DEFAULT_SOCKET_NAME "/data/data/com.micewine.emu/files/usr/tmp/.virgl_test"
 
 #define VTEST_PROTOCOL_VERSION 3
 
